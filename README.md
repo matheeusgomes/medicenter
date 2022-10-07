@@ -1,5 +1,5 @@
 # medicenter
-Site MediCenter criado durante curso da B7web!
+Site MediCenter criado durante curso da B7web utilizando HTML e CSS!
 
 Acesso: <a href="https://matheeusgomes.github.io/medicenter/">Link</a>
 
